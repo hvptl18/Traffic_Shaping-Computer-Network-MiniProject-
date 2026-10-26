@@ -307,30 +307,7 @@ To reproduce the experiment:
 
 For a fair comparison, use the same traffic pattern and equivalent experimental conditions for both algorithms.
 
-## 15. Submission Checklist
 
-Before submitting the project, verify the following:
-
-* [ ] `traffic_shaping.py` is included.
-* [ ] `config.json` is included.
-* [ ] `README.md` is included.
-* [ ] Generated CSV result files are included.
-* [ ] Generated graphs are included.
-* [ ] Technical report PDF is included.
-* [ ] Editable technical report DOCX is included if required.
-* [ ] Demonstration video is recorded with your own narration.
-* [ ] YouTube video is uploaded as Unlisted or Public, as permitted by the instructions.
-* [ ] The video link is tested.
-* [ ] All required project files are uploaded to the designated submission location.
-* [ ] Any OneDrive sharing link is accessible to the evaluator.
-* [ ] The final configuration and reported metrics match the submitted program's actual output.
-
-## 16. References
-
-1. Python Documentation — https://docs.python.org/3/
-2. Matplotlib Documentation — https://matplotlib.org/stable/
-3. Computer Networks course materials covering traffic shaping, congestion management, and Quality of Service.
-4. Course notes and laboratory instructions provided by the instructor.
 
 ---
 
