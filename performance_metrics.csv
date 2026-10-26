@@ -1,0 +1,3 @@
+algorithm,total_packets_sent,total_packets_dropped,maximum_queue_after_transmission
+Token Bucket,94,6,16
+Leaky Bucket,86,14,16
